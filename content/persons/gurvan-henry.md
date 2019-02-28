@@ -21,7 +21,7 @@ Mon **cap de travail est orienté par l'objectif de l'équipe**. C'est ainsi que
 Cette motivation me permet de m'adapter sur tous les langages (ou presque 🤭). 
 
 Je suis : **développeur couteau-suisse touche à tout** qui demande souvent *"pourquoi ?"*\
-Je ne suis pas : expert d'un language et incolable sur son histoire et ses fines subtilités techniques.
+Je ne suis pas : expert d'un langage et incollable sur son histoire et ses fines subtilités techniques.
 
 Envie de discuter d'un projet, d'un choix technique engageant ?\
 gurvan@hojopa.com
