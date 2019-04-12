@@ -28,7 +28,7 @@ mail: vlb@attilab.io
 
 # OPTIONNEL
 # ATTENTION cette donnée est PUBLIQUE et en CLAIR dans le dépot git et sur le site
-telephone:
+telephone: 02 30 96 90 06 
 
 # REQUIS
 # l'image doit être ajoutée dans le dossier /public/images et faire moins de 100ko ! Sa hauteur affichée sur le site sera de 300px, elle s'adaptera comme elle peut au responsive avec du css.
@@ -54,9 +54,9 @@ domaines_metiers:
 # Les technologies que tu utilises
 # Une technologe peut être une langage, un framework, une librairie, un CMS ...
 technologies:
-  - React (and co)
-  - Node (and co)
-  - JAVA (and co)
+  - React
+  - Node
+  - JAVA
 
 # REQUIS
 # écrit ci-dessous ta présentation en markdown ⬇️
@@ -64,4 +64,4 @@ technologies:
 # La coloration syntaxique du code est supportée.
 ---
 
-Développeur full stack javascript (node/react)  avec 8 ans d’expérience sur des projets très variés (grand compte, startup). Je cherche avant tout à apporter mon dynamisme sur des projets passionnants !
+Développeur full stack javascript (node/react)  avec 9 ans d’expérience sur des projets très variés (grand compte, startup). Je cherche avant tout à apporter mon dynamisme sur des projets passionnants !
