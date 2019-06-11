@@ -24,7 +24,7 @@ nom: Cadoret
 #
 # Si cela t'embête parce que tu utilises une adresse perso, tu peux aussi te créer
 # une adresse mail pro publique et la rediriger vers ta boîte mail perso
-mail: luc.cadoret@gmail.fr
+mail: luc.cadoret@gmail.com
 
 # OPTIONNEL
 # ATTENTION cette donnée est PUBLIQUE et en CLAIR dans le dépot git et sur le site
