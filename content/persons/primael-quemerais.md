@@ -87,4 +87,6 @@ Je suis également l'initiateur de l'application Coastr (disponible en bêta sur
 
 Je suis très attaché à la philosophie open source, c'est pourquoi j'ai lancé l'application Wimplate. Il s'agit d'une alternative libre et transparente à l'application Yuka. (Retrouver Wimplate : https://gitlab.com/Reefind/wimplate).
 
+Retrouvez mes projets sur Github : https://github.com/PrimaelQuemerais ainsi que Gitlab : https://gitlab.com/Reefind.
+
 Je suis disponible et très motivé aussi bien pour de petites missions que pour des projets à long terme.
